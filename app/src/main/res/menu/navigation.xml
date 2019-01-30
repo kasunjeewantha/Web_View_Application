@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:color="@color/colorPrimary"
+        android:title="@string/Home" />
+
+    <item
+        android:id="@+id/Full_Screen"
+        android:icon="@drawable/ic_open_with_black_24dp"
+        android:color="@color/colorPrimary"
+        android:title="@string/FullScreen" />
+    <item
+        android:id="@+id/Screenshot"
+        android:icon="@drawable/ic_fullscreen_exit_black_24dp"
+        android:color="@color/colorPrimary"
+        android:title="@string/Screenshot" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_extension_black_24dp"
+        android:color="@color/colorPrimary"
+        android:title="@string/About" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:color="@color/colorPrimary"
+        android:title="@string/Exit" />
+
+</menu>
